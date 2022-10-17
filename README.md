@@ -1,1 +1,2 @@
-# TravelXwebsite
+# TravelX
+A sample traveling website
